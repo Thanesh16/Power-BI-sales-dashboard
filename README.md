@@ -40,16 +40,6 @@ The goal of this dashboard is to track overall sales trends, evaluate product pr
 | **Category Dominance** | The **Electronics** category is the primary revenue driver, accounting for 58.36% (~33M) of total sales, followed strongly by **Accessories** at 41.64% (~23M). |
 | **Dynamic Filtering Impact** | Performance metrics are highly variable. While the full view shows 56M in sales, utilizing the dynamic slicers (Region, Segment, Team) allows stakeholders to isolate specific underperforming or highly profitable niches, drastically shifting the visible top-selling products and profit margins. |
 
-### 🔹 Screenshots
-
-| Page / View | Image Path |
-| :--- | :--- |
-| **Sales Overview** | `[![Sales Overview](./Screenshots/Sales_Overview.png)](./Screenshots/Sales_Overview.png)` |
-| **Sales Trend** | `[![Sales Trend](./Screenshots/Sales_Trend.png)](./Screenshots/Sales_Trend.png)` |
-| **Top Performance** | `[![Top Performance](./Screenshots/Top_Performance.png)](./Screenshots/Top_Performance.png)` |
-| **Segment Analysis** | `[![Segment Analysis](./Screenshots/Segment_Analysis.png)](./Screenshots/Segment_Analysis.png)` |
-| **Profit & Revenue Analysis**| `[![Profit & Revenue Analysis](./Screenshots/Profit_and_Revenue_Analysis.png)](./Screenshots/Profit_and_Revenue_Analysis.png)` |
-| **Profitability Analysis** | `[![Profitability Analysis](./Screenshots/Profitability_Analysis.png)](./Screenshots/Profitability_Analysis.png)` |
 
 ### 🔹 Project Structure
 
