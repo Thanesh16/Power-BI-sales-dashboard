@@ -61,7 +61,7 @@ Power-BI-sales-dashboard/
 ## 🚀 Project Links
 
 - 🔗 **GitHub Repository:** [View Code](https://github.com/Thanesh16/Power-BI-sales-dashboard)
-- 📊 **Live Dashboard:** [View Report](https://app.powerbi.com/links/_-9GvB_9Tg?ctid=1f16e18a-e2cb-470a-b778-44cc219b8a38&pbi_source=linkShare)
+- 📊 **Live Dashboard:** [View Report](https://app.powerbi.com/links/m139NItr6U?ctid=1f16e18a-e2cb-470a-b778-44cc219b8a38&pbi_source=linkShare&bookmarkGuid=b42dec4a-48f2-461a-b2ac-68326629918a)
 
 
 ## 🔹 Author
