@@ -55,6 +55,6 @@ Power-BI-sales-dashboard/
 ├── Theme/
 └── README.md
 
-### 🔹 Links
+### 🔹 Live Dashboard
 
-* **Live Report:** [View Dashboard](https://app.powerbi.com/links/_-9GvB_9Tg?ctid=1f16e18a-e2cb-470a-b778-44cc219b8a38&pbi_source=linkShare)
+🔗 [Click here to view the interactive Power BI report](https://app.powerbi.com/links/_-9GvB_9Tg?ctid=1f16e18a-e2cb-470a-b778-44cc219b8a38&pbi_source=linkShare)
