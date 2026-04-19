@@ -43,7 +43,7 @@ The goal of this dashboard is to track overall sales trends, evaluate product pr
 
 ### 🔹 Project Structure
 
-```text
+
 Power-BI-sales-dashboard/
 │
 ├── Backup/
@@ -55,7 +55,7 @@ Power-BI-sales-dashboard/
 ├── Theme/
 └── README.md
 
-```md
+
 
 ### 🔹 Live Dashboard
 
