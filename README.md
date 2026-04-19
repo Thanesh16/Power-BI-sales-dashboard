@@ -44,14 +44,12 @@ The goal of this dashboard is to track overall sales trends, evaluate product pr
 
 | Page / View | Image Path |
 | :--- | :--- |
-| **Sales Overview** | `![Sales Overview](./Screenshots/Sales_Overview.png)` |
-| **Sales Trend** | `![Sales Trend](./Screenshots/Sales_Trend.png)` |
-| **Top Performance** | `![Top Performance](./Screenshots/Top_Performance.png)` |
-| **Segment Analysis** | `![Segment Analysis](./Screenshots/Segment_Analysis.png)` |
-| **Profit & Revenue Analysis**| `![Profit & Revenue Analysis](./Screenshots/Profit_and_Revenue_Analysis.png)` |
-| **Profitability Analysis** | `![Profitability Analysis](./Screenshots/Profitability_Analysis.png)` |
-
-*(Note: Ensure the image file names in your `Screenshots` folder match the paths above.)*
+| **Sales Overview** | `[![Sales Overview](./Screenshots/Sales_Overview.png)](./Screenshots/Sales_Overview.png)` |
+| **Sales Trend** | `[![Sales Trend](./Screenshots/Sales_Trend.png)](./Screenshots/Sales_Trend.png)` |
+| **Top Performance** | `[![Top Performance](./Screenshots/Top_Performance.png)](./Screenshots/Top_Performance.png)` |
+| **Segment Analysis** | `[![Segment Analysis](./Screenshots/Segment_Analysis.png)](./Screenshots/Segment_Analysis.png)` |
+| **Profit & Revenue Analysis**| `[![Profit & Revenue Analysis](./Screenshots/Profit_and_Revenue_Analysis.png)](./Screenshots/Profit_and_Revenue_Analysis.png)` |
+| **Profitability Analysis** | `[![Profitability Analysis](./Screenshots/Profitability_Analysis.png)](./Screenshots/Profitability_Analysis.png)` |
 
 ### 🔹 Project Structure
 
